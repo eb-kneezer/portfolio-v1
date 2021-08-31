@@ -96,8 +96,8 @@ section.hero {
   left: 5%;
   font-size: 50px;
   color: var(--yellow);
-  -webkit-animation: rotate-logo 3s infinite linear;
-  animation: rotate-logo 3s infinite linear;
+  -webkit-animation: rotate-logo 10s infinite linear;
+  animation: rotate-logo 10s infinite linear;
 }
 @-webkit-keyframes rotate-logo {
   0% {
