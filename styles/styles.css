@@ -25,6 +25,7 @@
 
 html {
   scroll-behavior: smooth;
+  background: var(--navy);
 }
 
 * {
@@ -166,7 +167,7 @@ section.hero {
   width: 200px;
   height: 200px;
   position: relative;
-  background-image: url("../assets/profile.jpg");
+  background-image: url("../assets/profile.webp");
   background-position: center;
   background-size: cover;
   margin: 70px 0px;
